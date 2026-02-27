@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#E7412A",
+            "lang-select-color": "#222829",
+            "bg-light": "#E7412A",
+            "welcome-bonus-bg": "#E7412A",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#030D16",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#0C2B49",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FFE56C",
+            "yellow": "#0C2B49",
+            "yellow-button": "#FFE56C",
+            "button-text": "#ffffff",
+            "main-button-text": "#222829",
+            "border-color": "#0C2B49",
+            "casino-cards": "#E7412A",
+            "bonus-border-head": "#ffffff",
+            "bonus-border": "#0C2B49",
+            "providers-back": "#E7412A",
+            "faq-label": "#E7412A",
+            "bg-footer": "#E7412A",
+            "copyright": "#e7e7d5",
+            "starColor": "#0C2B49",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3618"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3620",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "LuckyLuke Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3621",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "LuckyLuke"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-en",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "LuckyLuke",
+                    "title": "LuckyLuke Casino: Up to 500 Free Spins, Tournaments, Slots & Live Tables",
+                    "description": "Welcome to our Wild West saloon: choose a welcome offer, spin the Lucky Wheel for up to 500 free spins, and play slots, jackpots, and live dealer tables. Enjoy convenient payments, clear terms, and 24\/7 support for a smooth experience.",
+                    "canonical": "luckyluke-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3622",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "luckyluke-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3623"
+                },
+                "hero": {
+                    "title": "LuckyLuke — Slots, Live Casino, Bonuses & Fast Payouts",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3624",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3625",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 0,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Instant wins and fast cashouts",
+                        "Slots with jackpots and bonus rounds",
+                        "Live tables with real dealers 24\/7",
+                        "Up to 500 free spins via Lucky Wheel",
+                        "Pick a welcome offer that fits",
+                        "Tournaments and leaderboards with prizes",
+                        "Convenient payments and secure transactions"
+                    ],
+                    "advantagesAfterText": "We keep gameplay exciting and fair with a huge variety, well-designed promos, and clear rules. You can start in demo mode and switch to real play smoothly. We focus on big-win potential and a comfortable, user-first experience.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "LuckyLuke App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3626",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "LuckyLuke App",
+                    "mobileGooglePlayImageTitle": "LuckyLuke App",
+                    "mobileIosImageTitle": "LuckyLuke App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About LuckyLuke",
+                        "description1": "We stand out with flexible bonus choices and always-on game events. We bring a true “saloon” vibe where there’s a fresh reason to play and chase big wins every day.\n",
+                        "items": [
+                            "Up to 500 Free Spins per deposit.",
+                            "Up to 200 Free Spins for newcomers.",
+                            "Deposit bonus up to $300."
+                        ],
+                        "description2": "Our casino is a vibrant Wild West space built around pure gameplay excitement and big-win vibes. We’ve curated a massive mix of slots, table games, and live dealer action so you can choose your pace and playstyle. The lobby makes it easy to discover new releases, classics, and progressive jackpot titles, plus handpicked collections by mechanics and volatility. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3627",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "For real-time thrills, our live section features roulette, blackjack, baccarat, and show-style formats that feel like an event every round. If you prefer quick sessions, our instant games are perfect for short breaks without losing momentum. We support demo play so you can explore features and pick favorites with confidence. New players can choose a welcome offer, making the first steps both smooth and rewarding. Throughout the week, regular promotions add extra spins and bonus funds to keep your sessions energized. A true highlight is our Lucky Wheel, where a deposit becomes a chance to land up to 500 free spins and extend your playtime. On Wednesdays, you get a choice: boost your bankroll with a bonus or grab free spins and chase streaks of wins. On Mondays, we credit cashback to bring back part of last week’s action and keep your momentum strong. For competitive players, we run tournaments and leaderboards where play turns into points and points turn into prizes. Inside our loyalty journey, you level up through statuses and unlock tailored perks, faster rewards, and extra benefits. We focus on convenience with quick deposits and carefully processed withdrawals. Account security is a priority, backed by modern data protection and transaction checks. Support is available via chat, email, and phone so you’re never left alone with questions. We aim to make every visit feel like a winning stop at the saloon—packed with rewards, excitement, and real chances to land a big hit.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "LuckyLuke: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\n Entry Rules and Responsible Play at Our Casino\n<\/h3>\n\n<p>\nWe welcome players who value fair and comfortable play, so we follow clear access conditions. You need a personal account with accurate details to keep payments fast and secure. We may request identity verification for withdrawals and other safety-related situations. Play must be done from your own profile to preserve personal bonuses and betting history. We support fair play and monitor any attempts to manipulate systems or abuse rules. Following bonus terms helps rewards credit smoothly and predictably. We take responsible gambling seriously and provide control tools to keep play strictly entertainment-focused. You can set a budget and session time in advance for calm, confident play. We support voluntary limits so you control your pace. If needed, timeout and self-exclusion options are available to restore comfort. Our goal is enjoyment—not stress—every time you visit. That’s why we promote a mindful approach and transparent conditions.\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntry conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAge and access: play is for adults only; real details are required at registration.\n\n<\/li>\n            <li>• \nOne account: one profile per person for correct bonuses and payouts.\n\n<\/li>\n            <li>• \nVerification: confirming identity and payment methods protects your balance and speeds withdrawals.\n\n<\/li>\n            <li>• \nFair play: bets are placed by the player only, without external interference.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited actions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMultiple accounts and sharing: no duplicates and no account access transfer to third parties.\n\n<\/li>\n            <li>• \nFraud and abuse: any schemes aimed at bypassing rules are blocked by security systems.\n\n<\/li>\n            <li>• \nBonus misuse: promotions must be used according to terms for stable crediting.\n\n<\/li>\n            <li>• \nInaccurate data: correct profile details ensure smooth payouts.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible play\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLimits: set daily\/weekly deposit and betting limits.\n\n<\/li>\n            <li>• \nTimeout: take a 24-hour, 7-day, or longer break.\n\n<\/li>\n            <li>• \nSelf-exclusion: lock access for an extended period if needed.\n\n<\/li>\n            <li>• \nTime control: use session reminders and set a fixed budget upfront.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLicensing and Security: How We Protect Play and Your Data\n<\/h3>\n\n<p>\nWe operate under an international gaming license and follow established requirements for fairness and transparency. Licensing means we maintain responsible standards, protect players, and use verifiable approaches for transactions. Within these rules, we apply verification and payment controls so winnings are withdrawn safely. Our priority is confidence at every step—from sign-up to cashout.\n\n<\/p>\n<br>\n\n\n<p>\nData protection starts with encrypted connections between your device and our servers. We use modern TLS\/SSL protocols to help prevent interception of information during login and payments. This is especially important for deposits and withdrawals where financial details may be processed. We also apply access segmentation and a “minimum necessary” data principle to reduce exposure risks.\n\n<\/p>\n<br>\n<p>\nWe build security with a layered approach: login monitoring, suspicious activity checks, and safeguards against unauthorized access. When key account settings change, additional confirmations may be triggered to strengthen control. We take fraud attempts seriously and use automated filters that protect balances and bonuses. This keeps the platform stable and helps you play with peace of mind.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect and why it’s needed. Typically, this includes registration details, payment information required to process transactions, and technical data to run the platform smoothly. We use this data to service your account, ensure security, prevent fraud, and complete required checks. We keep it practical—collecting only what improves safety and convenience.\n\n<\/p>\n<br>\n<p>\nWe also pay close attention to data storage and processing timelines. Information is protected at the server level with strict access controls, and security-related actions are logged for accountability. You can manage marketing preferences and communication settings, and you can request clarifications about data associated with your profile. This approach balances comfort with strong protection.\n\n<\/p>\n<br>\n<p>\nFinally, we support responsible play and age verification, because security is not only about technology but also about proper access rules. We use KYC procedures to confirm identity and prevent underage use. These measures protect players and help keep gameplay fair. Our goal is for you to enjoy entertainment in a secure and controlled environment.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits and Withdrawals: Methods, Security, and Timing\n<\/h3>\n\n<p> \nWe designed our cashier to be convenient so you can fund your balance in minutes and withdraw winnings with confidence. Deposits support popular cards and e-wallets, plus alternative methods so you can choose what fits best. Most deposits are credited instantly, letting you jump into gameplay right away. Withdrawals are initiated from your account and go through standard security checks to protect you. We use encrypted connections and transaction controls, so payments are handled in a protected environment. Payout timing depends on the method: e-wallets are typically the fastest, while bank tools may take longer due to payment processing. After approval, funds are released automatically, and you can track everything in your transaction history. When needed, we request identity or payment verification to streamline future payouts and prevent errors. The process stays transparent—you see available methods and estimated timing upfront. For smooth payouts, use personal payment details and keep your profile data accurate. We also offer flexible limits so you can manage your bankroll comfortably. Our goal is fast, secure payouts that support an enjoyable experience.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #0C2B49;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Visa \/ Mastercard<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2–5 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Skrill \/ Neteller<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Interac<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–2 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>paysafecard \/ Neosurf<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Via supported channels<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>AstroPay<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Up to 24–48 hours<\/td>\n    <\/tr>\n\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2–3 business days<\/td>\n    <\/tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto (if available)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Network dependent<\/td>\n    <\/tr>\n\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nWithdrawal limits\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from $20.\n\n<\/li>\n            <li>• \nDaily maximum: up to $2,000 (depending on status and method).\n\n<\/li>\n            <li>• \nMonthly maximum: up to $4,000 (with possible VIP increases).\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: Fast Replies and a Smooth Experience\n<\/h3>\n\n<p>\nOur support team is built to help exactly when you need it—before, during, and after your session. We assist via live chat, email, and phone so you can choose the most convenient channel. Chat is perfect for quick questions about bonuses, games, deposits, and withdrawals. Email works best for detailed cases, attachments, and step-by-step explanations. Phone support helps resolve urgent issues quickly with clear voice guidance. We maintain a high service standard: friendly, precise, and attentive to details. Average chat response time is typically just a few minutes, and we aim to reply to emails within the same day. If an issue requires deeper review, we keep you updated on progress and next steps. Our team knows promotions, wagering rules, and account settings inside out. We also help you set responsible play limits and enable the controls you want. Support is available in multiple languages, including English and French, and we can assist in Russian through written requests. Our goal is confidence, comfort, and uninterrupted entertainment.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast real-time assistance.\n\n<\/li>\n            <li>• \nEmail: detailed cases, documents, message history.\n\n<\/li>\n            <li>• \nPhone: quick clarifications and step-by-step guidance.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time & service quality\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–5 minutes to first reply, then guided to resolution.\n\n<\/li>\n            <li>• \nEmail: usually within the day, priority on payments and security.\n\n<\/li>\n            <li>• \nPhone: fast help for urgent issues, with escalation if needed.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish: full support coverage.\n\n<\/li>\n            <li>• \nFrench: full support coverage.\n\n<\/li>\n           \n        <\/ul><br>\n\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at LuckyLuke",
+                        "description": "\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyLuke Loyalty Program: Tiers, Bonuses, and Perks\n<\/h3>\n<p>\nOur loyalty program is designed for players who want more value from every session. You register once, play your favorite games, and level up based on activity. The higher your tier, the more personalized advantages you unlock: bonuses, cashback, free spins, and special offers. We award loyalty points for wagering, and your progress is shown in your account so you always know what’s next. The tier system is built to deliver rewards regularly, not someday far away. A big plus is access to weekly offers that become even stronger as your status grows. Monday Cashback becomes available from the Saloon Bartender tier and increases as you climb higher. Members also unlock the Lucky Shop, where points can be exchanged for free spins or bonus funds. The shop uses clear thresholds: 999 points for free spins and 4999 points for bonus funds. We keep perks growing steadily and add personalized surprises to keep things fresh. Higher tiers receive priority support and more flexible tailored promotions. This turns loyalty into a real advantage—you play, and rewards rise with you.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCreate an account and confirm your contact details.\n\n<\/li>\n            <li>• \nPlay with real wagers to collect loyalty points.\n\n<\/li>\n            <li>• \nTrack progress in your dashboard and activate rewards.\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them\n\n\n<\/h4>\n\n <ul>\n            <li>• \nGreenhorn: entry tier after registration, core perks and promo access.\n\n<\/li>\n            <li>• \nSaloon Bartender: unlocked with consistent activity; access to Monday Cashback.\n\n<\/li>\n            <li>• \nDeputy: more personalized offers and expanded weekly bonuses.\n\n<\/li>\n            <li>• \nSheriff: stronger cashback rewards and priority service.\n\n<\/li>\n\t    <li>• \nCowboy: high tier with expanded limits and premium promo packs.\n\n<\/li>\n\t    <li>• \nLonesome Cowboy: the top tier with maximum perks and VIP-style treatment.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & rewards\n<\/h4>\n\n <ul>\n            <li>• \nLucky Shop: redeem points — from 999 points for free spins, from 4999 points for bonus funds.\n\n<\/li>\n            <li>• \nFree Spins purchase: up to 19999 points for larger spin bundles.\n\n<\/li>\n            <li>• \nBonus Funds purchase: up to 24999 points for boosted amounts.\n\n<\/li>\n            <li>• \nMonday Cashback: available from Saloon Bartender, value increases with tier.\n\n<\/li>\n\t    <li>• \nPersonal offers: enhanced deposit deals and missions based on your status.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses and Special Offers: Free Spins, Promos, and Game Events\n<\/h3>\n\n<p>\nWe love giving you more reasons to step into the saloon every day, so our promotions stay active and exciting. Right at the start, you pick a welcome option and begin with an upgraded bankroll or extra spins. If you value flexibility, we offer choices where you decide what matters most—bonus money or free spins. We run regular promos that keep your momentum strong and help extend sessions without unnecessary pauses. Our Lucky Wheel turns a deposit into a mini-event, where every spin can land a generous free spin package. On Wednesdays, we bring a special “dilemma” that adapts to your playstyle and goals for the night. On Mondays, we bring back part of the week’s energy through cashback so you keep playing confidently. We also launch slot tournaments and dedicated leaderboards where activity translates into prizes. For high rollers, there are boosted deals that provide a bigger budget for larger bets and jackpot chasing. We run seasonal events and themed weeks with extra missions, rewards, and curated game collections. In the live section, we support promo activity that makes dealer sessions even more engaging. For new releases, we often add spotlight promos so you can experience fresh features first. Inside specific games, time-limited features like bonus rounds and free spin streaks can further boost excitement. We keep promotions easy to understand, with progress clearly tracked in your account. You always see what’s active, what remains, and what rewards are waiting. That turns play into a smart, rewarding entertainment loop.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonus list\n<\/h4>\n\n <ul>\n            <li>• \nWelcome Choice: pick your start — 120% up to $120 or 200 Free Spins on popular slots; a strong opening boost.\n\n<\/li>\n            <li>• \nNo‑Deposit Free Spins: 30 Free Spins on a selected slot after registration; a great warm-up before real play.\n\n<\/li>\n            <li>• \nLucky Wheel: deposit from $10 for a chance at 11 to 500 Free Spins; perfect to extend your session.\n\n<\/li>\n            <li>• \nWednesday Dilemma: choose 30% up to $300 or 60 Free Spins (free spins typically require a $30 deposit); flexible by design.\n\n<\/li>\n\t    <li>• \nMonday Cashback: credited based on weekly activity (available from a certain tier) to bring back part of your momentum.\n\n<\/li>\n\t    <li>• \nHigh‑Roller Boost: deposit $300 to play with $700; built for confident big-win chasing.\n\n<\/li>\n\t    <li>• \nSlot Tournaments: prize pools up to $10,000 across event series; points push you up the ranks.\n\n<\/li>\n\t    <li>• \nSeasonal Events: themed weeks with extra missions, free spins, and mini draws.\n\n<\/li>\n\t    <li>• \nNew Game Drops: promos on fresh releases with boosted excitement around bonus features and win streaks.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames in Our Casino: Slots, Live Tables, and Jackpots\n<\/h3>\n\n<p>\nWe’ve built a large game library so you can choose entertainment for any mood—from relaxed spins to high-tension live rounds. In slots, you’ll find classic machines, modern video slots, Megaways mechanics, and feature-buy titles. For big targets, progressive jackpots are available where every spin can be the one. In table games, we offer multiple versions of roulette, blackjack, and baccarat so you can pick your preferred rules and pace. Live casino runs with real dealers to deliver a true table atmosphere where strategy, staking, and timing matter. We also offer instant games for quick sessions and fast decisions. For explorers, we constantly add new releases and themed collections. Filters by provider and category help you find the right game in seconds. Many titles include demo mode so you can test mechanics before real play. We support a wide range of stakes, making it comfortable for both newcomers and experienced players. Every category balances fun with winning potential. And promotions plus free spins help extend playtime and chase bonus features.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick list of game categories\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots: classics, video slots, Megaways, buy-feature, high multipliers.\n\n<\/li>\n            <li>• \nJackpots: progressive and fixed jackpot titles.\n\n<\/li>\n            <li>• \nRoulette: European, American, fast variants, and live formats.\n\n<\/li>\n            <li>• \nBlackjack: multiple limits and rules, including live tables.\n\n<\/li>\n\t    <li>• \nBaccarat: classic and live versions.\n\n<\/li>\t \n   <li>• \nLive casino: real dealers, game shows, fast-action tables.\n\n<\/li>\n\t    <li>• \nInstant games: quick rounds for short sessions.\n\n<\/li>\n\t    <li>• \nPromo collections: titles featured for free spins, missions, and tournaments.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nLuckyLuke Minimum and Maximum Bets\n<\/h3>\n\n<p> \nWe support a wide betting range so you can play comfortably in any style—from a careful start to confident high-limit action. Minimum bets let you explore slots and strategies without pressure, while maximum limits give room for big goals. Exact ranges depend on the specific game and provider, and you’ll always see the current limits directly in the interface before a round begins.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #0c2b49;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #ffffff; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Megaways \/ High Volatility Slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Progressive Jackpots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.25<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$25<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (online)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.50<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Roulette (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (online)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$2,500<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Blackjack (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat (online)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Baccarat (live)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$5<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Instant Games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">$500<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTournaments and Leaderboards: How to Join and Win Prizes\n<\/h3>\n\n<p>\nOur tournaments and leaderboards turn regular play into a competition with real rewards and extra motivation. Joining is simple: pick a tournament-eligible game, play with real wagers, and you automatically start collecting points. In most events, points are awarded for qualifying spins and winning rounds, with activity tracked during the event window. A common scoring model focuses on win multipliers: the higher your “win-to-bet” ratio, the more points you earn. Some leaderboards sum your best multipliers over time, so one strong hit can push you up fast. We may also factor in wagering volume or number of spins to reward consistent play and steady sessions. Each event displays its rules clearly so you know exactly what earns points. Leaderboard positions update automatically, and you can track progress in real time. When the tournament ends, prizes are distributed by rank and credited to your account as bonus funds, free spins, or other rewards. To claim prizes, you typically only need to meet basic conditions and have a verified account. Tournaments pair perfectly with promotions, because free spins and bonuses help you stay competitive longer. We design events so you have a real chance to win no matter your style—through precise big hits or steady long-run play.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick helpful tips\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to participate: open Tournaments → choose an event → play the listed games with real wagers.\n\n<\/li>\n            <li>• \nHow points are calculated: commonly (win ÷ bet) = multiplier, converted into tournament points.\n\n<\/li>\n            <li>• \nWhat counts: best single-spin multiplier, sum of top multipliers, wagering volume, spin count, activity within event time.\n\n<\/li>\n            <li>• \nHow to track rank: the leaderboard updates automatically; monitor your position and the gap to the next prize spot.\n\n<\/li>\n\t    <li>• \nHow to boost chances: play during “tournament hours,” pick slots with frequent features, and manage bankroll for distance.\n\n<\/li>\n\t    <li>• \nHow to receive prizes: wait for event end → check notifications → rewards are credited to your account for use.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Do you offer demo mode?",
+                            "answer": "Yes, many games include demo play so you can explore mechanics, bonus features, and payout flow before switching to real wagering.\n\n\n"
+                        },
+                        {
+                            "title": "How fast is account verification?",
+                            "answer": "We aim to process verification quickly; it’s typically fast when documents are clear and match your profile details.\n\n\n"
+                        },
+                        {
+                            "title": "What if my deposit isn’t credited instantly?",
+                            "answer": "This is usually payment-processor timing; check the transaction status and contact support—we’ll guide you to the fastest resolution.\n\n\n"
+                        },
+                        {
+                            "title": "How does game fairness work?",
+                            "answer": "We use modern gaming solutions and randomness mechanisms so outcomes are generated correctly and unpredictably with clear rules.\n\n\n"
+                        },
+                        {
+                            "title": "What responsible play tools are available?",
+                            "answer": "You can set deposit and betting limits, enable timeout or self-exclusion, and use session-time reminders.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}

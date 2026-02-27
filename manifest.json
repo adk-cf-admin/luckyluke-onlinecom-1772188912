@@ -1,0 +1,19 @@
+{
+  "name": "LuckyLuke",
+  "short_name": "LuckyLuke",
+  "theme_color": "",
+  "background_color": "#E7412A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1772185930-cropped-luckyluke-casino-favicon-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
